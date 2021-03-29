@@ -10,3 +10,7 @@
 	path = Fira/main
 	url = https://github.com/BrentHouse/FiraSans.git
 	branch = main
+[submodule "Bravura"]
+	path = Bravura
+	url = https://github.com/steinbergmedia/bravura.git
+	branch = master
