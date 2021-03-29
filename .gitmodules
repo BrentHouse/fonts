@@ -2,3 +2,11 @@
 	path = Cormorant
 	url = https://github.com/BrentHouse/Cormorant.git
 	branch = master
+[submodule "Fira/corresponding-source"]
+	path = Fira/corresponding-source
+	url = https://github.com/BrentHouse/FiraSans.git
+	branch = corresponding-source
+[submodule "Fira/main"]
+	path = Fira/main
+	url = https://github.com/BrentHouse/FiraSans.git
+	branch = main
